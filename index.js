@@ -8,6 +8,7 @@ const arch = os.arch();
 const prebuilt = {
   'win32-x64': 'build/Release/win32-x64/drag.node',
   'linux-x64': 'build/Release/linux-x64/drag.node',
+  'linux-arm64': 'build/Release/linux-arm64/drag.node',
   'darwin-x64': 'build/Release/darwin-x64/drag.node',
   'darwin-arm64': 'build/Release/darwin-arm64/drag.node',
 };

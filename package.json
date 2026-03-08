@@ -23,6 +23,7 @@
   "files": [
     "build/Release/win32-x64/drag.node",
     "build/Release/linux-x64/drag.node",
+    "build/Release/linux-arm64/drag.node",
     "build/Release/darwin-x64/drag.node",
     "build/Release/darwin-arm64/drag.node",
     "index.js",
