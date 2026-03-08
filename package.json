@@ -26,7 +26,6 @@
     "build/Release/linux-arm64/drag.node",
     "build/Release/darwin-x64/drag.node",
     "build/Release/darwin-arm64/drag.node",
-    "binding.gyp",
     "index.js",
     "index.d.ts",
     "README.md",
